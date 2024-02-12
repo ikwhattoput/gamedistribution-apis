@@ -1,6 +1,11 @@
 # gamedistribution-apis
 list of multiple apis used by html5.gamedistribution and both gamedistribution.com
 
+Game Apis
+----
+#### game.api.gamedistribution.com
+* https://game.api.gamedistribution.com/game/v4/get/a186dc9ac7f548f884db8ff54df6dd9f/?domain=x.x.x&v=1.36.12&localTime=20
+
 ```json
 {
     "success": true,
